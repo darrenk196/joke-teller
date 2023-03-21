@@ -1,6 +1,6 @@
 # Joke Teller
 
-Joke Teller is a simple web application that tells you a random joke when you click a button. The jokes are told using text-to-speech technologyt.
+Joke Teller is a simple web application that tells you a random joke when you click a button. The jokes are told using text-to-speech technology.
 
 ## Installation
 
